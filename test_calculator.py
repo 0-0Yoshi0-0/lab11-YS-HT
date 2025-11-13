@@ -1,3 +1,7 @@
+# https://github.com/0-0Yoshi0-0/lab11-YS-HT
+# Partner 1: Yash Singh
+# Partner 2: Henry Tang
+
 import unittest
 from calculator import *
 
